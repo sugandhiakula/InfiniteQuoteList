@@ -1,5 +1,6 @@
 # InfiniteQuoteList
-A simple infinitely scrollable list of random quotes by famous people.
+
+An infinitely scrollable list of random quotes by famous people.
 
 A simple project that uses two APIs:
 
